@@ -1,0 +1,15 @@
+setup.py
+kaigo/__init__.py
+kaigo/items.py
+kaigo/middlewares.py
+kaigo/pipelines.py
+kaigo/settings.py
+kaigo.egg-info/PKG-INFO
+kaigo.egg-info/SOURCES.txt
+kaigo.egg-info/dependency_links.txt
+kaigo.egg-info/entry_points.txt
+kaigo.egg-info/not-zip-safe
+kaigo.egg-info/top_level.txt
+kaigo/spiders/__init__.py
+kaigo/spiders/kaigo_spider.py
+kaigo/spiders/utility.py
